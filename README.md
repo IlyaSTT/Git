@@ -130,3 +130,5 @@ supposed to be in 3d pard.
 
 will it be conflict in the 4th part?  because strings of fourth part  bellow was shifted 
 ## Слияние веток
+
+
